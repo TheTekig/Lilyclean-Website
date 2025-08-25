@@ -26,9 +26,16 @@ body{
 }
 
 header{
-  border-radius: 5%;
-  padding: 10px;
+  padding: 1px;
   background-color: #254a66;
+  size: cover;
+  gap: 5px;
+}
+
+nav{
+  display: flex;
+  justify-content: flex-end;
+
 }
 
 a{
@@ -113,4 +120,30 @@ a:hover{
   margin: 0%;
   gap: 10%;
   margin: 10%;
+}
+
+.Hero{
+  background-image: url(img/I.png);
+  background-size: cover;
+  height: 500px;
+  color: white;
+  padding: 100px 20px;
+}
+
+#Logo{
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  width: 20%;
+  height: 10%;
+}
+
+#Slogan{
+  display: flex;
+  font-size: 200%;
+  font-weight: bold;
+  text-shadow: 4px 4px 0px #2c3e50;
+  padding: 10%;
+  gap: 50%;
+  flex-wrap: wrap;
 }
