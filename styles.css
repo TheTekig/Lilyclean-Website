@@ -44,12 +44,13 @@ a:hover{
 }
 
 .Reviews{
+
+  height: 350px;
   background-color: #e05a30;
 }
 
 .About{
   padding: 10%;
-  margin: 0%;
   background-color: #e05a30;
 }
 
@@ -59,15 +60,20 @@ a:hover{
   background-color: #254a66;
 }
 
+.Services{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin: 50px;
+}
+
 .ServiceBlock{
   width: 200px;
   height: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-wrap: wrap;
-  gap: 10px;
-  margin: 10px;
   padding: 10px;
   border-radius: 5%;
   background-color: #254a66;
@@ -76,7 +82,7 @@ a:hover{
 }
 
 .ServiceBlock:hover{
-  transform: scale(1.1);
+  transform: scale(1.05);
   background-color: #798fa1;
 }
 
@@ -87,4 +93,24 @@ a:hover{
   border-radius: 10%;
   gap: 15px;
   flex-direction: column;
+}
+
+#familia{
+  width: 100%;
+  justify-content: flex-end;
+}
+
+#produtos{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10%;
+  width: 80%;
+}
+
+.Welcome{
+  display: flex;
+  margin: 0%;
+  gap: 10%;
+  margin: 10%;
 }
