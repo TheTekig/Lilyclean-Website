@@ -1,0 +1,90 @@
+html{
+  scroll-behavior: smooth;
+}
+
+p {
+  font-family: "Montserrat", sans-serif ;
+}
+
+h1{
+  font-family: "Montserrat", sans-serif ;
+  font-weight: bold;
+}
+
+h2{
+  font-family: "Montserrat", sans-serif ;
+  font-weight: bold;
+}
+
+h3{
+  font-family: "Montserrat", sans-serif ;
+  font-weight: bold;
+}
+
+body{
+  padding: 25px;
+}
+
+header{
+  border-radius: 5%;
+  padding: 10px;
+  background-color: #254a66;
+}
+
+a{
+  color: white;
+  font-family: "Montserrat", sans-serif ;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 10px;
+  justify-content: space-between;
+}
+a:hover{
+  opacity: 50%;
+}
+
+.Reviews{
+  background-color: #e05a30;
+}
+
+.About{
+  padding: 10%;
+  margin: 0%;
+  background-color: #e05a30;
+}
+
+.Contact{
+  padding: 10%;
+  margin: 0;
+  background-color: #254a66;
+}
+
+.ServiceBlock{
+  width: 200px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5%;
+  background-color: #254a66;
+  transition: transform 0.3s, opacity 0.3s;
+  
+}
+
+.ServiceBlock:hover{
+  transform: scale(1.1);
+  background-color: #798fa1;
+}
+
+.Forms{
+  display: flex;
+  color: white;
+  padding: 10px;
+  border-radius: 10%;
+  gap: 15px;
+  flex-direction: column;
+}
