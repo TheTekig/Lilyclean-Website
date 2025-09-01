@@ -30,9 +30,9 @@
   
           <div id="Slogan">
             
-          <h1>LILYCLEAN</h1>
-          <p>YOUR HOME,</p>
-          <p>OUR CARE</p>   
+          <span class="line1">LILYCLEAN</span>
+          <span class="line2">YOUR HOME,</span>
+          <span class="line3">OUR CARE</span>  
           
           </div>
        
@@ -129,20 +129,27 @@
         
           <div class="Forms" >
             <form action="enviar-email.py" method ="post">
-            
+              
+              <div class="FormBlock">
               <label for="name">Name:</label>
               <input type="text" name="username" id="name" required>
+              </div>
               
+              <div class="FormBlock">
               <label for="email">E-Mail:</label>
               <input type="email" name="usermail" id="email" required>
+              </div>
               
+              <div class="FormBlock">
               <label for="number">Phone:</label>
-              <input type="number" name="userphone" id="phone" required>
+              <input type="text" name="userphone" id="phone" required>
+              </div>
               
-              
+              <div class="FormBlock">
               <label for="mensage">Mensage: </label>
               <textarea name="usermensage" id=mensage rows="8" required></textarea>
-            
+              </div>
+              
               <button type:"submit">Send Email</button>
             </form>
           </div>
