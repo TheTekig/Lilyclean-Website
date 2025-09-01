@@ -162,11 +162,19 @@ form button:hover {
   width: 80%;
 }
 
+
 .Welcome{
   display: flex;
   margin: 0%;
   gap: 10%;
   margin: 10%;
+}
+
+#Welcome-text{
+  display: flex;
+  justify-content: center;
+  margin: 10%;
+  color: #254a66;
 }
 
 .Hero{
@@ -189,7 +197,7 @@ form button:hover {
   display: flex;          /* Ativa o Flexbox para um alinhamento fácil */
   flex-direction: column; /* Coloca os itens (os <span>) em uma coluna, um embaixo do outro */
   align-items: flex-start;  /* Alinha tudo à esquerda. Mude para 'center' para centralizar. */
-
+  padding-left: 10%;
   /* Estilos para a aparência */
   font-family: 'Montserrat', sans-serif; /* Exemplo de uma fonte moderna (use Google Fonts) */
   text-transform: uppercase; /* Deixa todo o texto em maiúsculas */
@@ -203,12 +211,16 @@ form button:hover {
 
 .line1 {
   font-size: 65px;  /* Tamanho grande para o nome principal */
-  color: #2c3e50;  /* Uma cor escura, tipo azul-marinho */
+  color: white;  /* Uma cor escura, tipo azul-marinho */
   margin-bottom: 10px; /* Espaço abaixo de LILYCLEAN */
+  text-shadow: #254a66;
 }
 
 .line2, .line3 {
   font-size: 24px;   /* Tamanho menor para o slogan */
-  color: #3498db;   /* Uma cor de destaque, tipo azul claro */
+  color: white;   /* Uma cor de destaque, tipo azul claro */
   line-height: 1.2;  /* Altura da linha para controlar o espaçamento entre "YOUR HOME," e "OUR CARE" */
+  text-shadow: #254a66;
 }
+
+
