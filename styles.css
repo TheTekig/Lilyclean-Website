@@ -69,6 +69,15 @@ a:hover{
   background-color: #254a66;
 }
 
+
+#Service-Text{
+  display: flex;
+  justify-content: center;
+  color: #e05a30
+  
+  
+}
+
 .Services{
   display: flex;
   justify-content: center;
