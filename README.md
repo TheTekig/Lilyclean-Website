@@ -1,7 +1,6 @@
-<h1 align="center">🌸 LilyClean</h1>
 
 <p align="center">
-  <img src="img/logo.png" alt="Logo LilyClean" width="200px">
+  <img src="img/Meu.png" alt="Logo LilyClean">
 </p>
 
 <p align="center">
