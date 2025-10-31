@@ -44,11 +44,11 @@
 <h2 align="center">🖼️ Preview</h2>
 
 <p align="center">
-  <gif src="img/Gif_LyliSite.gif" alt="Preview do site LilyClean" width="800px">
+  <img src="img/Gif_LyliSite.gif" alt="Preview do site LilyClean" width="800px">
 </p>
 
 <p align="center">
-  <i>(Captura de tela do site publicado)</i><br>
+  <i>(Gif do site publicado)</i><br>
   <a href="https://thetekig.github.io/Lilyclean-Website/" target="_blank">
     🔗 Clique aqui para visualizar o site ao vivo no GitHub Pages
   </a>
