@@ -32,10 +32,10 @@
 <h2 align="center">🚀 Funcionalidades</h2>
 
 
-    ✅ Página principal com navegação por seções<br>
-    ✅ Sessões: <b>About Us</b>, <b>Services</b> e <b>Contact</b><br>
-    ✅ Formulário de contato estilizado<br>
-    ✅ Efeitos <i>hover</i> e transições suaves<br>
+    ✅ Página principal com navegação por seções
+    ✅ Sessões: About Us, Services e Contact
+    ✅ Formulário de contato estilizado
+    ✅ Efeitos hover e transições suaves
     ✅ Layout totalmente responsivo
 
 
