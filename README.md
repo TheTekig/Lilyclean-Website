@@ -24,7 +24,7 @@
 
 <p align="center">
   <i>LilyClean</i> é um site fictício desenvolvido para uma empresa de serviços de limpeza residencial.<br>
-  Criado durante com o objetivo de praticar estrutura semântica em HTML, estilização moderna em CSS e publicação no GitHub Pages.
+  Criado com o objetivo de praticar estrutura semântica em HTML, estilização moderna em CSS e publicação no GitHub Pages.
 </p>
 
 ---
@@ -44,7 +44,7 @@
 <h2 align="center">🖼️ Preview</h2>
 
 <p align="center">
-  <img src="./img/Gif_LyliSite.gif" alt="Preview do site LilyClean" style="size: 50%;">
+  <img src="./img/Gif_LyliSite.gif" alt="Preview do site LilyClean" style="size: 50px;">
 </p>
 
 <p align="center">
