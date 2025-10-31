@@ -24,7 +24,7 @@
 
 <p align="center">
   <i>LilyClean</i> é um site fictício desenvolvido para uma empresa de serviços de limpeza residencial.<br>
-  Criado durante o <b>2º período de Sistemas de Informação (IFES Colatina)</b>, com o objetivo de praticar<br>
+  Criado durante com o objetivo de praticar<br>
   estrutura semântica em HTML, estilização moderna em CSS e publicação no GitHub Pages.
 </p>
 
