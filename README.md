@@ -24,15 +24,14 @@
 
 <p align="center">
   <i>LilyClean</i> é um site fictício desenvolvido para uma empresa de serviços de limpeza residencial.<br>
-  Criado durante com o objetivo de praticar<br>
-  estrutura semântica em HTML, estilização moderna em CSS e publicação no GitHub Pages.
+  Criado durante com o objetivo de praticar estrutura semântica em HTML, estilização moderna em CSS e publicação no GitHub Pages.
 </p>
 
 ---
 
 <h2 align="center">🚀 Funcionalidades</h2>
 
-<p align="center">
+<p align="right">
   ✅ Página principal com navegação por seções<br>
   ✅ Sessões: <b>About Us</b>, <b>Services</b> e <b>Contact</b><br>
   ✅ Formulário de contato estilizado<br>
@@ -61,10 +60,8 @@
 
 <table align="center">
   <tr>
-    <td align="center"><b>HTML5</b><br>Estrutura semântica da página</td>
-    <td align="center"><b>CSS3</b><br>Estilização e layout responsivo</td>
-    <td align="center"><b>Google Fonts</b><br>Tipografia moderna (Montserrat)</td>
-    <td align="center"><b>GitHub Pages</b><br>Hospedagem gratuita do site</td>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </tr>
 </table>
 
