@@ -31,13 +31,13 @@
 
 <h2 align="center">🚀 Funcionalidades</h2>
 
-<p align="left">
-  ✅ Página principal com navegação por seções<br>
-  ✅ Sessões: <b>About Us</b>, <b>Services</b> e <b>Contact</b><br>
-  ✅ Formulário de contato estilizado<br>
-  ✅ Efeitos <i>hover</i> e transições suaves<br>
-  ✅ Layout totalmente responsivo
-</p>
+
+    ✅ Página principal com navegação por seções<br>
+    ✅ Sessões: <b>About Us</b>, <b>Services</b> e <b>Contact</b><br>
+    ✅ Formulário de contato estilizado<br>
+    ✅ Efeitos <i>hover</i> e transições suaves<br>
+    ✅ Layout totalmente responsivo
+
 
 ---
 
@@ -74,11 +74,13 @@
 </p>
 
 <p align="center">
-  • Estruturar páginas com tags semânticas <br>
-  • Usar <b>Flexbox</b> e <b>transições CSS</b> <br>
-  • Criar formulários responsivos e com foco visual <br>
-  • Organizar pastas e arquivos de forma profissional <br>
-  • Publicar um site estático completo no <b>GitHub Pages</b>
+  
+    • Estruturar páginas com tags semânticas <br>
+    • Usar <b>Flexbox</b> e <b>transições CSS</b> <br>
+    • Criar formulários responsivos e com foco visual <br>
+    • Organizar pastas e arquivos de forma profissional <br>
+    • Publicar um site estático completo no <b>GitHub Pages</b>
+    
 </p>
 
 ---
