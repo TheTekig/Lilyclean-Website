@@ -49,7 +49,7 @@
 
 <p align="center">
   <i>(Captura de tela do site publicado)</i><br>
-  <a href="https://seuusuario.github.io/lilyclean-website" target="_blank">
+  <a href="https://TheTekig.github.io/lilyclean-website" target="_blank">
     🔗 Clique aqui para visualizar o site ao vivo no GitHub Pages
   </a>
 </p>
