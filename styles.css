@@ -26,10 +26,9 @@ body{
 }
 
 header{
-  padding: 1px;
+  display: flex;
   background-color: #254a66;
-  size: cover;
-  gap: 5px;
+
 }
 
 nav{
@@ -204,10 +203,8 @@ form button:hover {
 
 #Logo{
   display: flex;
+  align-items: center;
   justify-content: center;
-  align-items: baseline;
-  width: 20%;
-  height: 10%;
 }
 
 #Slogan{
