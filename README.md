@@ -44,7 +44,7 @@
 <h2 align="center">🖼️ Preview</h2>
 
 <p align="center">
-  <img src="./img/Gif_LyliSite.gif" alt="Preview do site LilyClean" width="800px">
+  <img src="./img/Gif_LyliSite.gif" alt="Preview do site LilyClean" style="size: 50%;">
 </p>
 
 <p align="center">
