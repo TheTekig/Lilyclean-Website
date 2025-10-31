@@ -31,7 +31,7 @@
 
 <h2 align="center">🚀 Funcionalidades</h2>
 
-<p align="right">
+<p align="left">
   ✅ Página principal com navegação por seções<br>
   ✅ Sessões: <b>About Us</b>, <b>Services</b> e <b>Contact</b><br>
   ✅ Formulário de contato estilizado<br>
@@ -60,8 +60,8 @@
 
 <table align="center">
   <tr>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <th><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></th>
+    <th><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></th>
   </tr>
 </table>
 
