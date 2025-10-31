@@ -75,11 +75,11 @@
 
 <p align="center">
   
-    • Estruturar páginas com tags semânticas <br>
-    • Usar <b>Flexbox</b> e <b>transições CSS</b> <br>
-    • Criar formulários responsivos e com foco visual <br>
-    • Organizar pastas e arquivos de forma profissional <br>
-    • Publicar um site estático completo no <b>GitHub Pages</b>
+    • Estruturar páginas com tags semânticas 
+    • Usar Flexbox e transições CSS
+    • Criar formulários responsivos e com foco visual 
+    • Organizar pastas e arquivos de forma profissional 
+    • Publicar um site estático completo no GitHub Pages
     
 </p>
 
